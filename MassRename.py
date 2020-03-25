@@ -5,6 +5,7 @@ from tkinter import filedialog
 
 # create program as window
 window = Tk()
+# test
 
 # define window properties
 window.title("MassRename")
